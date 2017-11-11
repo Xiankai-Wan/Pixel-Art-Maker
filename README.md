@@ -18,4 +18,11 @@ You can be able to:
 Just like this:
 ![](http://cn-discussions.s3.cn-north-1.amazonaws.com.cn/original/3X/9/3/93385cf4e20e58f7a238bb48e26e69a7b8434650.png)
 
+## Technologies
+* JavaScript and jQuery
+  * Define variables with `const` and `let`
+  * Access the DOM use methods of the `document` object
+  * Declar functions and attach them to DOM objects even listeners
+  * Write nested loops and use loop variables
+  
 
